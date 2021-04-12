@@ -1,0 +1,58 @@
+// graph
+digraph {
+	0 [label="http://youtube.com/"]
+	0 -> 0
+	0 -> 0
+	1 [label="http://youtube.com/t/contact_us"]
+	0 -> 1
+	2 [label="http://youtube.com/t/terms"]
+	0 -> 2
+	1 -> 0
+	3 [label="http://youtube.com/yt/about"]
+	1 -> 3
+	4 [label="http://youtube.com/t/community_guidelines"]
+	1 -> 4
+	5 [label="http://youtube.com/yt/jobs"]
+	1 -> 5
+	6 [label="http://youtube.com/t/press"]
+	1 -> 6
+	7 [label="http://youtube.com/t/advertising_overview"]
+	1 -> 7
+	8 [label="http://youtube.com/t/contentid"]
+	1 -> 8
+	1 -> 2
+	9 [label="http://youtube.com/yt/dev"]
+	1 -> 9
+	8 -> 0
+	8 -> 2
+	8 -> 2
+	2 -> 0
+	10 [label="http://youtube.com/t/terms_paidservice"]
+	2 -> 10
+	11 [label="http://youtube.com/t/usage_paycontent"]
+	2 -> 11
+	12 [label="http://youtube.com/t/policy_cns"]
+	2 -> 12
+	13 [label="http://youtube.com/t/copyright_notice"]
+	2 -> 13
+	2 -> 4
+	10 -> 0
+	10 -> 2
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 4
+	11 -> 0
+	11 -> 2
+	11 -> 10
+	11 -> 12
+	11 -> 13
+	11 -> 4
+	12 -> 0
+	12 -> 2
+	12 -> 8
+	12 -> 2
+	13 -> 0
+	13 -> 2
+	13 -> 2
+}
