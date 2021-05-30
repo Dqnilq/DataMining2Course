@@ -1,0 +1,66 @@
+(Hot chocolate, Cookies)
+(Coffee, Pastry)
+(Coffee, Bread)
+(Medialuna, Pastry)
+(Medialuna, Coffee)
+(Coffee, Tea)
+(Bread, Medialuna)
+(Bread, Confiture)
+(Bread, Coffee)
+(Bread, Pastry)
+(Confiture, Scandinavian)
+(Farm House, Bread)
+(Coffee, Medialuna)
+(Coffee, Muffin)
+(Coffee, Confiture)
+(Juice, Coffee)
+(Confiture, Coffee)
+(Confiture, Muffin)
+(Coffee, Hot chocolate)
+(Juice, Bread)
+(Hot chocolate, Tea)
+(Cookies, Coffee)
+(Coffee, Juice)
+(Coffee, Cake)
+(Confiture, Bread)
+(Cake, Coffee)
+(Cookies, Tea)
+(Coffee, Cookies)
+(Cookies, Muffin)
+(Sandwich, Bread)
+(Coffee, Sandwich)
+(Hot chocolate, Coffee)
+(Hot chocolate, Pastry)
+(Bread, Juice)
+(Farm House, Scandinavian)
+(Sandwich, Coffee)
+(Bread, Farm House)
+(Bread, Brownie)
+(Medialuna, Scandinavian)
+(Medialuna, Farm House)
+(Medialuna, Hot chocolate)
+(Cake, Tea)
+(Hot chocolate, Farm House)
+(Hot chocolate, Muffin)
+(Sandwich, Tea)
+(Farm House, Medialuna)
+(Cookies, Confiture)
+Bread
+Scandinavian
+Hot chocolate
+Cookies
+Muffin
+Coffee
+Pastry
+Medialuna
+Tea
+Confiture
+Farm House
+Juice
+Soup
+Cake
+Sandwich
+Alfajores
+Brownie
+Toast
+Scone
